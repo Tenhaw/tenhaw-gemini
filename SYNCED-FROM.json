@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Tenhaw/tenhaw-kit",
-  "commit": "0363850f923ceaeed3be29a4ddf4b8baf5676830",
-  "version": "1.0.0",
+  "commit": "244a5eac7010849d0bfa4ee83010a24a129e726b",
+  "version": "1.0.1",
   "source": "plugins/gemini"
 }
